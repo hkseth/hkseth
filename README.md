@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hitesh Seth 👋</h1>
 
 <p align="center">
-  <strong>Founder &amp; CTO, <a href="https://adisutra.ai">AdiSutra.ai</a></strong><br>
+  <strong>Founder &amp; CTO, <a href="https://adisutra.ai">Ādisūtra</a></strong><br>
   <em>Enterprise AI, from first principles.</em>
 </p>
 
@@ -18,11 +18,11 @@
 
 I'm a hands-on technology executive and enterprise architect with **25+ years** turning large-scale data, AI/ML, GenAI, and Agentic AI into production reality inside the world's most regulated industries — Financial Services, Insurance, and Life Sciences. I've built and led global engineering and architecture teams and shipped mission-critical platforms serving **hundreds of millions of users** and global clinical research programs.
 
-Today I'm building **AdiSutra.ai** — helping enterprises move from AI *curiosity* to AI *capability*, from first principles.
+Today I'm building **Ādisūtra** — helping enterprises move from AI *curiosity* to AI *capability*, from first principles.
 
 ## 🚀 What I'm building now
 
-**AdiSutra.ai** is an enterprise-AI practice for regulated industries, built on two pillars:
+**Ādisūtra** is an enterprise-AI practice for regulated industries, built on two pillars:
 
 - **Advisory** — moving large enterprises beyond AI experimentation into production-grade capability, built around their real compliance posture, architecture, and organizational reality.
 - **Frameworks & Products** — an enterprise intelligence layer that connects teams to their *own* context (apps, architecture, strategy, standards, patterns, roadmaps), so AI output is aligned to the business, not generic.
