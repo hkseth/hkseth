@@ -52,14 +52,14 @@ Today I'm building **AdiSutra.ai** — helping enterprises move from AI *curiosi
 
 I care deeply about **Responsible AI** — model risk governance, data lineage, evaluation frameworks, human-in-the-loop systems, and auditability — the things that make AI trustworthy enough to run in a regulated enterprise.
 
-## 🎤 Selected speaking
+## 🎤 Recent Speaking Engagements
 
-- **Rise of Agents** — Super AI/ML Summit (2025)
-- **Beyond PQC: Quantum Computing & Blockchain Security** — Quantum + AI 2.0 (2025)
-- **High-Quality Data for Modern AI Systems** — Innodata GenAI Summit (2025)
-- **Deploying GenAI in Highly Regulated Industries** — AI Infra Summit (2025)
-- **API-Centric Platforms for Generative AI** — BIAN Banking Summit, London (2024)
-- **Keynote: Kafka, Flink & Beyond** — Confluent Current (2023)
+- **Super AI/ML Summit (2025)** — [Rise of Agents](https://www.linkedin.com/posts/hiteshseth_looking-forward-to-speaking-at-the-annual-activity-7389536955392290816-uzug)
+- **Quantum + AI 2.0 (2025)** — [Beyond PQC: Quantum Computing & Blockchain Security](https://www.linkedin.com/posts/hiteshseth_looking-forward-for-to-meeting-old-and-new-activity-7370885689363554304-MiUA)
+- **Innodata GenAI Summit (2025)** — [High-Quality Data for Modern AI Systems](https://world.aiacceleratorinstitute.com/location/innodatagenaisummit/agenda)
+- **AI Infra Summit (2025)** — [Deploying GenAI in Highly Regulated Industries](https://www.linkedin.com/posts/hiteshseth_im-joining-the-speaker-lineup-at-the-ai-activity-7356060635375280128-6amo)
+- **BIAN Banking Summit, London (2024)** — [API-Centric Platforms for Generative AI](https://www.linkedin.com/posts/hiteshseth_the-first-roundtables-have-been-announced-activity-7258130358443913217-Zi_6)
+- **Confluent Current (2023)** — [Keynote: Kafka, Flink & Beyond](https://www.confluent.io/events/current/2023/kafka-flink-and-beyond/)
 
 Proud mentor for **Women in Computing** (Grace Hopper Conference).
 
@@ -70,8 +70,18 @@ Proud mentor for **Women in Computing** (Grace Hopper Conference).
 
 ## 📜 Patents
 
-**7 US patents** in mobile & online payments:
-[8,851,369](https://patents.google.com/?q=US8851369) · [9,489,677](https://patents.google.com/?q=US9489677) · [8,180,706](https://patents.google.com/?q=US8180706) · [8,073,772](https://patents.google.com/?q=US8073772) · [8,195,565](https://patents.google.com/?q=US8195565) · [8,190,514](https://patents.google.com/?q=US8190514) · [9,367,834](https://patents.google.com/?q=US9367834)
+<details>
+<summary><strong>7 US patents granted</strong> — mobile &amp; online payments</summary>
+
+- [US 8,851,369 — Transaction processing using a smartcard](https://patents.google.com/patent/US8851369B2/en)
+- [US 9,514,468 — Delivering tailored content based on a consumer profile](https://patents.google.com/patent/US9514468B2/en)
+- [US 8,180,706 — Maximizing rewards accumulation during transactions](https://patents.google.com/patent/US8180706B2/en)
+- [US 8,195,565 — Policy-based routing of transactions](https://patents.google.com/patent/US8195565B2/en)
+- [US 8,073,772 — Processing transactions using multiple budgets](https://patents.google.com/patent/US8073772B2/en)
+- [US 8,190,514 — Transaction processing under overdraft scenarios](https://patents.google.com/patent/US8190514B2/en)
+- [US 9,367,834 — Processing payments using a proxy card](https://patents.google.com/patent/US9367834B2/en)
+
+</details>
 
 ## 🎓 Education
 
