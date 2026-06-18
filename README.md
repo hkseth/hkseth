@@ -56,6 +56,11 @@ I care deeply about **Responsible AI** — model risk governance, data lineage, 
 
 Frequent keynote speaker — AI Infra Summit, Confluent Current, BIAN Banking Summit (London), Chief AI Officer Summit (Boston), AI Drug Discovery Summit, Quantum + AI 2.0, and more. Proud mentor for **Women in Computing** (Grace Hopper Conference).
 
+## 📚 Books
+
+- [_Special Edition Using JavaBeans_](https://www.amazon.com/Special-Using-Beans-Barbara-White/dp/0789714604)
+- [_Microsoft .NET Kick Start_](https://www.amazon.com/Microsoft-NET-Kick-Start-Hitesh/dp/0672325748)
+
 ## 🎓 Education
 
 **IIT Kanpur** — B.Tech, Chemical Engineering & Computer Science · **Stanford GSB** — Executive Program
