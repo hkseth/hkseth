@@ -52,14 +52,26 @@ Today I'm building **AdiSutra.ai** — helping enterprises move from AI *curiosi
 
 I care deeply about **Responsible AI** — model risk governance, data lineage, evaluation frameworks, human-in-the-loop systems, and auditability — the things that make AI trustworthy enough to run in a regulated enterprise.
 
-## 🎤 Speaking & community
+## 🎤 Selected speaking
 
-Frequent keynote speaker — AI Infra Summit, Confluent Current, BIAN Banking Summit (London), Chief AI Officer Summit (Boston), AI Drug Discovery Summit, Quantum + AI 2.0, and more. Proud mentor for **Women in Computing** (Grace Hopper Conference).
+- **Rise of Agents** — Super AI/ML Summit (2025)
+- **Beyond PQC: Quantum Computing & Blockchain Security** — Quantum + AI 2.0 (2025)
+- **High-Quality Data for Modern AI Systems** — Innodata GenAI Summit (2025)
+- **Deploying GenAI in Highly Regulated Industries** — AI Infra Summit (2025)
+- **API-Centric Platforms for Generative AI** — BIAN Banking Summit, London (2024)
+- **Keynote: Kafka, Flink & Beyond** — Confluent Current (2023)
+
+Proud mentor for **Women in Computing** (Grace Hopper Conference).
 
 ## 📚 Books
 
 - [_Special Edition Using JavaBeans_](https://www.amazon.com/Special-Using-Beans-Barbara-White/dp/0789714604)
 - [_Microsoft .NET Kick Start_](https://www.amazon.com/Microsoft-NET-Kick-Start-Hitesh/dp/0672325748)
+
+## 📜 Patents
+
+**7 US patents** in mobile & online payments:
+[8,851,369](https://patents.google.com/?q=US8851369) · [9,489,677](https://patents.google.com/?q=US9489677) · [8,180,706](https://patents.google.com/?q=US8180706) · [8,073,772](https://patents.google.com/?q=US8073772) · [8,195,565](https://patents.google.com/?q=US8195565) · [8,190,514](https://patents.google.com/?q=US8190514) · [9,367,834](https://patents.google.com/?q=US9367834)
 
 ## 🎓 Education
 
